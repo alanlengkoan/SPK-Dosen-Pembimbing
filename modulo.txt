@@ -1,0 +1,10 @@
+hak akses
+-admin
+-mahasiswa
+
+-admin untuk melakukan pembagian baik secara manual dan menggunakan metode (sudah)
+-mahasiswa hanya dapat melihat siapa dosen pembimbing (sudah)
+-hasil dari ahp simpan dan print (sudah)
+-detail mahasiswa dan print sk pembimbing (sudah)
+-tambah detail dosen
+-hilangkan aksi pada laporan data dosen dan data mahasiswa
