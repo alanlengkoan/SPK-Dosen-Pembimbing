@@ -1,2 +1,2 @@
 # SPK-Dosen-Pembimbing
-Sistem Pendukung Keputusan Dosen Pembimbing dengan menggunakan Metode AHP (Analitycal Hierarchy Process)
+Sistem Pendukung Keputusan Dosen Pembimbing Menggunakan Metode AHP (Analitycal Hierarchy Process)
